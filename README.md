@@ -45,8 +45,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Vodafone Ltd** (2015 to present)    
-*Production Manager - Content Management* 
+*Production Manager - Content Management*
+
 **Vodafone Ltd** (2011 to 2015)    
 *Quality Assurance Manager*  
+
 **Vodafone Ltd** (September 2001 to 2011)   
 *Intranet developer/IT Support*  
